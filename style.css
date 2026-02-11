@@ -39,3 +39,7 @@ body {
     color: var(--text-color);
     background-color: var(--white);
 }
+
+a{
+    color: var(--primary-color);
+}
